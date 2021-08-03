@@ -6,6 +6,9 @@
 <p>Meu primeiro contato com Web Development foi em 2019, por muito tempo não saí do lugar e passei por períodos de procrastinação,
 porém, estou mais focado que nunca, sinto que finalmente estou no caminho certo, ainda há muito por vir mas desistir não é uma opção. 🚀</p>
 
+>"O importante não é vencer todos os dias, mas lutar sempre." <br>
+>Waldemar Valle Martins
+
 <br><br><br>
 
 
