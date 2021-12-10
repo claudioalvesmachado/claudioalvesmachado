@@ -14,15 +14,15 @@
  	<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/javascript.svg">
+	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/sass.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-	
 </div><br>
 
 <div>
 <h2> Meus interesses 🤓</h2>
 	
   <img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/react.svg">
-	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/sass.svg">
+	
 </div><br>
 
 <div>
