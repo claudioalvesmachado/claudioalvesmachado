@@ -2,12 +2,10 @@
 
 <img style="margin-top:200px" align="right" alt="" height="150" width="200" src="https://media4.giphy.com/media/KEB0JS4BdaT9m0m2vR/200w.webp?cid=ecf05e47clwajo18zst0r3zvzlrrr4gtfn7zavctcy3i8i2t&rid=200w.webp&ct=s">
 
-<p>Olá, meu nome é Cláudio Alves, tenho 18 anos e estou estudando para ser Web Dev FrontEnd. 🙂🚀</p>
-
-
+<p>Olá, meu nome é Cláudio Alves, tenho 18 anos e continuo estudando... 🙂</p>
+<p>Desenvolvimento Front End é minha paixão e estou tentando melhorar a cada dia 🚀</p>
 
 <br><br><br>
-
 
 <div>
 <h2> Tecnologias e ferramentas que uso até o momento 👨‍💻</h2>
@@ -19,11 +17,11 @@
 </div><br>
 
 <div>
-<h2> Meus interesses 🤓</h2>
-	
-  <img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/react.svg">
-	
-</div><br>
+	<h2> Pretendo começar em breve.. 🤓</h2>
+	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/react.svg">
+</div>
+
+<br>
 
 <div>
   <a href="https://github.com/claudioalvesmachado">
@@ -34,7 +32,7 @@
 <div>
 	<div>
 		<h3>Contatos 🤝 </h3>
-		<a href="https://t.me/claudioalvesmachado"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+		<a href="https://api.whatsapp.com/send?phone=553799949742"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	</div>
 	<div>
 		<h3>Social 👋 </h3>
