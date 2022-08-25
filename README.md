@@ -2,18 +2,17 @@
 
 <img style="margin-top:200px" align="right" alt="" height="150" width="200" src="https://media4.giphy.com/media/KEB0JS4BdaT9m0m2vR/200w.webp?cid=ecf05e47clwajo18zst0r3zvzlrrr4gtfn7zavctcy3i8i2t&rid=200w.webp&ct=s">
 
-<p>Olá, meu nome é Cláudio Alves, tenho 18 anos e continuo estudando... 🙂</p>
-<p>Desenvolvimento Front End é minha paixão e estou tentando melhorar a cada dia 🚀</p>
+<p>Olá, meu nome é Cláudio Alves, tenho 18 anos, aspirante a desenvolvedor FrontEnd.<br> Estou sempre aprendendo algo novo e dando um passo de cada vez. 🚀</p>
 
 <br><br><br>
 
 <div>
-<h2> Tecnologias e ferramentas que uso até o momento 👨‍💻</h2>
+<h2> Tecnologias que uso até o momento 👨‍💻</h2>
  	<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  	<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/javascript.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/sass.svg">
-	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+	<img aling="center" alt="" height="30" widht="40" src="https://cdn.svgporn.com/logos/git-icon.svg"
 </div><br>
 
 <div>
