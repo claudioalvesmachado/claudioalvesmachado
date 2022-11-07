@@ -2,7 +2,7 @@
 
 <img style="margin-top:200px" align="right" alt="" height="150" width="200" src="https://media4.giphy.com/media/KEB0JS4BdaT9m0m2vR/200w.webp?cid=ecf05e47clwajo18zst0r3zvzlrrr4gtfn7zavctcy3i8i2t&rid=200w.webp&ct=s">
 
-<p>Olá, meu nome é Cláudio Alves, tenho 18 anos, aspirante a desenvolvedor FrontEnd.<br> Estou sempre aprendendo algo novo e dando um passo de cada vez. 🚀</p>
+<p>Olá, meu nome é Cláudio Alves, tenho 19 anos, aspirante a desenvolvedor FrontEnd.<br> Estou sempre aprendendo algo novo e dando um passo de cada vez. 🚀</p>
 
 <br><br><br>
 
