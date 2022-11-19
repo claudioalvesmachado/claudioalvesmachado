@@ -12,7 +12,6 @@
   	<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/javascript.svg">
 	<img align="center" alt="" height="30" width="40" src="https://cdn.svgporn.com/logos/sass.svg">
-	<img aling="center" alt="" height="30" widht="40" src="https://cdn.svgporn.com/logos/git-icon.svg"
 </div><br>
 
 <div>
